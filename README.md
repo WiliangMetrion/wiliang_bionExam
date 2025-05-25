@@ -1,16 +1,20 @@
 # covid_survey
 
-Binus Online Exam
+Binus Online Exam - Wiliang 2502538770
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Please make sure you have the following requirement installed :
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK 3.7 >=
+- Dart SDK
+- Android Studio
+- Android Emulator API 35
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can download or clone this project from github.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please run the following command before run it :
+
+- flutter clean
+- flutter pub get
+- flutter run
